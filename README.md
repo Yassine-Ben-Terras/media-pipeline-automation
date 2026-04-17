@@ -1,4 +1,4 @@
-# 🎬 TikTok Video Pipeline — AI-Powered Content Engine
+# TikTok Video Pipeline — AI-Powered Content Engine
 
 > Automated end-to-end pipeline that transforms a photo + theme into a fully published short-form video across TikTok, YouTube Shorts, Instagram Reels, LinkedIn, and more.
 
@@ -37,7 +37,7 @@ Telegram Trigger
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Layer | Tool |
 |---|---|
