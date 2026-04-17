@@ -82,7 +82,7 @@ API docs available at `http://localhost:8000/docs`
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 | Method | Path | Description |
 |--------|------|-------------|
@@ -93,7 +93,7 @@ API docs available at `http://localhost:8000/docs`
 
 ---
 
-## ⚙️ Environment Variables
+## Environment Variables
 
 See [`.env.example`](.env.example) for the full list.
 
