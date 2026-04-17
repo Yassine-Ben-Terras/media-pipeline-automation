@@ -9,7 +9,7 @@
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 Telegram Trigger
@@ -54,7 +54,7 @@ Telegram Trigger
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone & install
 
