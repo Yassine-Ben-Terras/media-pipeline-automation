@@ -143,6 +143,6 @@ tiktok_pipeline/
 
 ---
 
-## 📄 License
+## License
 
 MIT © 2026
